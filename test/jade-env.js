@@ -6,7 +6,7 @@ var jade_env = require('../index');
 var assert = require('assert');
 
 describe("description", function(){
-  it("should do blah blah blah", function(){
-    // your code...
+  it("should has attr", function(){
+    assert(true, 'attr' in jade_env)
   });
 });
