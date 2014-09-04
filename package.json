@@ -1,5 +1,5 @@
 {
-  "name": "jade-env",
+  "name": "tech",
   "version": "0.1.0",
   "description": "jade in client runtimejs with Cortex module",
   "main": "index.js",
