@@ -10,6 +10,7 @@
  * @api private
  */
 
+
 exports.merge = function merge(a, b) {
   if (arguments.length === 1) {
     var attrs = a[0];
